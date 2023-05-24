@@ -1,0 +1,15 @@
+{
+  "name": "tailwindcss-example",
+  "version": "0.1.0",
+  "description": "Tailwind CSS example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tailwind",
+    "css"
+  ],
+  "author": "",
+  "license": "Apache-2.0"
+}
